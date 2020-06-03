@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "connectionTimeout": 0,
+            "database": "helangu_app",
+            "driver": "MariaDB",
+            "group": "macoz.co.ke",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "helangu",
+            "password": "h3FQRSp0",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "macoz.co.ke",
+            "username": "helangu_user"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
